@@ -2,6 +2,7 @@
 <?php
 	require_once 'valid.php';
 	//Hola 
+	//Hola 2
 ?>	
 <!DOCTYPE html>
 <html lang = "eng">
