@@ -1,5 +1,7 @@
+
 <?php
 	require_once 'valid.php';
+	//Hola 
 ?>	
 <!DOCTYPE html>
 <html lang = "eng">
